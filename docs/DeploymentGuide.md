@@ -233,7 +233,7 @@ Once you've opened the project in [Codespaces](#github-codespaces), [Dev Contain
 
         - Copy the URL  
     - **Execute Script to registering Schemas**
-        - Move the folder to samples/schemas in ContentProcessorApi - [/src/ContentProcessorApi/samples/schemas](/src/ContentProcessorApi/samples/schemas)  
+        - Move the folder to samples/schemas in ContentProcessorAPI - [/src/ContentProcessorAPI/samples/schemas](/src/ContentProcessorAPI/samples/schemas)  
 
           Bash
 
@@ -252,7 +252,7 @@ Once you've opened the project in [Codespaces](#github-codespaces), [Dev Contain
 
 3. **Import Sample Data**  
     - Grab the Schema IDs for Invoice and Property Damage Claim Form's Schema from first step
-    - Move to the folder location to samples in ContentProcessorApi - [/src/ContentProcessorApi/samples/](/src/ContentProcessorApi/samples/)
+    - Move to the folder location to samples in ContentProcessorAPI - [/src/ContentProcessorAPI/samples/](/src/ContentProcessorAPI/samples/)
     - Execute the script with Schema IDs  
 
         Bash  
